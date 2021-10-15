@@ -1,0 +1,22 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "API testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talaamin/assignment-2.git"
+  },
+  "author": "Tala Qawasmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talaamin/assignment-2/issues"
+  },
+  "homepage": "https://github.com/talaamin/assignment-2#readme",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
